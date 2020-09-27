@@ -89,7 +89,6 @@ button:focus {
     outline: none;
 }
 
-
 .operator {
     background: grey;
     color: white;
@@ -110,7 +109,6 @@ button:focus {
     grid-row: 2 / span 4;
     background: rgba(13, 206, 87, 1);
 }
-
 
 /* media query */
 @media screen and (max-width: 600px) {
